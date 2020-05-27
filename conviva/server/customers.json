@@ -1,0 +1,77 @@
+{
+    "customers":
+    [{
+        "id": "1",
+        "name": "Leanne Graham",
+        "age": 34,
+        "sex": "M"
+      },
+      {
+        "id": "2",
+        "name": "Ervin Howell",
+        "age": 44,
+        "sex": "F"
+      },
+      {
+        "id": "3",
+        "name": "Clementine Bauch",
+        "age": 24,
+        "sex": "M"
+      },
+      {
+        "id": "4",
+        "name": "Patricia Lebsack",
+        "age": 28,
+        "sex": "F"
+      },
+     {
+        "id": "5",
+        "name": "Robel Corkery",
+        "age": 36,
+        "sex": "M"
+      },
+      {
+        "id": "6",
+        "name": "Chelsey Dietrich",
+        "age": 43,
+        "sex": "F"
+      },
+      {
+        "id": "7",
+        "name": "Dennis Schulist",
+        "age": 55,
+        "sex": "M"
+      },
+      {
+        "id": "8",
+        "name": "Kurtis Weissnat",
+        "age": 43,
+        "sex": "F"
+      },
+      {
+        "id": "9",
+        "name": "Nicholas Runolfsdottir",
+        "age": 22,
+        "sex": "F"
+      },
+     {
+        "id": "10",
+        "name": "Abernathy",
+        "age": 24,
+        "sex": "M"
+      },
+      {
+        "id": "11",
+        "name": "Glenna Reichert",
+        "age": 55,
+        "sex": "F"
+      },
+      {
+        "id": "12",
+        "name": "Clementina DuBuque",
+        "age": 28,
+        "sex": "F"
+      }
+      
+    ]
+  }

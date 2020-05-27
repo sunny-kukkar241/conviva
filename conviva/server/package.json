@@ -1,0 +1,14 @@
+{
+  "name": "conviva",
+  "version": "0.1.0",
+  "private": true,
+  "main": "convivacustomers.js",
+  "scripts": {
+    "start": "node convivacustomers.js"
+  },
+  "dependencies": {
+    "body-parse": "^0.1.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}

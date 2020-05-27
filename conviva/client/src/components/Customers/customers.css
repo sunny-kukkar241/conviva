@@ -1,0 +1,44 @@
+.customerlist
+{
+   
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+}
+.customerAddressList{
+    border: 1px solid black;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    min-height: 500px;
+}
+.ant-divider-horizontal{
+    border-top:1px solid black;
+}
+.selected-customer {
+   background-color: darkseagreen; 
+}
+.notselected{
+    background-color: white;
+}
+.customerdetail{
+    border-bottom:1px solid black;
+}
+.no-item{
+    font-size: 15px;
+    margin-left:20px;
+}
+.addressListHeading{
+    margin-left:20px;
+    margin-top:10px;
+    margin-bottom:10px;
+}
+
+.content{
+    padding-left: 50px;
+} 
+.description{
+    padding-top:10px;
+}

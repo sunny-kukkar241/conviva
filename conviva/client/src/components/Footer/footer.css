@@ -1,0 +1,29 @@
+.Footer{
+    height: 80px;
+    margin:auto;
+    width:100%;
+    background-color: #2e2e38;
+    display:flex;
+    padding-left:40px;
+    padding-right:40px;
+    background-color: white;
+   
+}
+
+.logo-container {
+    flex:1;
+   
+}
+.img-footer{
+    width:40px;
+    margin-left:40px;
+    margin-top:12px;
+    cursor: pointer;
+}
+
+.link-item{
+    color:#1a1a24;
+    line-height:65px;
+    padding-left:30px;
+    
+}
